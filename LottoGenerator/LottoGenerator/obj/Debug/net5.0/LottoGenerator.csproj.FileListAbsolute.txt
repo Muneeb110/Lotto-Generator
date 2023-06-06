@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.exe
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.deps.json
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.runtimeconfig.json
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.dll
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\bin\Debug\net5.0\LottoGenerator.pdb
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.AssemblyInfo.cs
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.dll
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\refint\LottoGenerator.dll
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.pdb
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\LottoGenerator.genruntimeconfig.cache
+C:\Users\USER\source\repos\LottoGenerator\LottoGenerator\obj\Debug\net5.0\ref\LottoGenerator.dll
